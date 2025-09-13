@@ -1,0 +1,2 @@
+JOptionPane is used to show messeges to the user
+It's an easy to use component of java swing library.
