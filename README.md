@@ -14,4 +14,4 @@ A simple Notepad application built in **Java 21** using Object-Oriented Programm
 
 ***
 <img width="789" height="695" alt="image" src="https://github.com/user-attachments/assets/37a61af2-7ccd-4c68-9d42-17c4b9a0360c" />
-
+<img width="786" height="699" alt="image" src="https://github.com/user-attachments/assets/1fdfb280-8550-434f-add2-caf2807a1c01" />
